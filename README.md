@@ -1,4 +1,4 @@
-Hello, I am Henry. I am currently a second year computer science student.
+Hello, I am Henry. I am a graduate of Durham University Computer Science Department.
 
 <!---
 zgcs95/zgcs95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
